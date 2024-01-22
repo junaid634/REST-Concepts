@@ -1,0 +1,18 @@
+.logo{
+    color: maroon;
+}
+h3{
+    font-style: italic;
+}
+.post{
+    background-color: rgb(152, 211, 233);
+    margin: 20px 0px;
+    padding: 10px 30px;
+    /* height: 30vh; */
+    width: 100%;
+}
+.btn{
+    background-color: maroon;
+    color: white;
+
+}
